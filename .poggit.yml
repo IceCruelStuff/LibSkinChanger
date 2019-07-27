@@ -6,4 +6,7 @@ projects:
     path: ""
     model: virion
     type: library
+    libs:
+      - src: BlockHorizons/LibSkinChanger/LibSkinChanger
+        version: ^1.0.0
 ...
